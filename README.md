@@ -1,5 +1,6 @@
 # Ruixiu-LI
 # 🎵 TunePad 🎹 Project by Ruixiu-LI ❤️❤️❤️❤️❤️❤️❤️❤️❤️
+(虾仁不眨眼 😉😉😉）
 
 This is a repository which contains a TunePad-based music coding project created by **Ruixiu-LI**.  
 It demonstrates how to compose multi-track music using Python-liked syntax on the TunePad platform.
@@ -24,4 +25,4 @@ It demonstrates how to compose multi-track music using Python-liked syntax on th
 
 ---
 
-Created with ❤️ by Ruixiu-LI ❤️   
+Created with ❤️ by Ruixiu-LI ❤️   (虾仁不眨眼 😉😉😉）
